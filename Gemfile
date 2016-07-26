@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem 'puma', '=3.4.0'
+gem 'puma', git: 'https://github.com/puma/puma', ref: '46416cb'

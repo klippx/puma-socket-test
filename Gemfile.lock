@@ -1,13 +1,19 @@
+GIT
+  remote: https://github.com/puma/puma
+  revision: 46416cb49ed2f16614f019cee969bb8f5d0a6146
+  ref: 46416cb
+  specs:
+    puma (3.6.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    puma (3.4.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  puma (= 3.4.0)
+  puma!
 
 BUNDLED WITH
    1.11.2
